@@ -1,2 +1,3 @@
 # KAIRVI-s-Project-
-I have done Integration testing on different web applications.
+The first file consists of Integration testing on different web applications like: Paytm, GOIBIBO, IRCTC.
+The second file consists of Functionality test cases.
